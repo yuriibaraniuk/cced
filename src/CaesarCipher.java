@@ -1,7 +1,6 @@
 public class CaesarCipher {
 
     private static final String ALPHABET =   "abcdefghijklmnopqrstuvwxyz" + "ABCDEFGHIJKLMNOPQRSTUVWXYZ" +
-            "абвгдеёжзийклмнопрстуфхцчшщъыьэюя" + "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ" +
             "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя" + "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЮЯ" +
             ".,\":!? +-*/\\@#$%^&(){}[];'|`~=_©«»—" + "0123456789";
 
